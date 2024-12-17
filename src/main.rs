@@ -26,7 +26,7 @@ fn print_about() {
         "\x1b[32mAbout:
     \x1b[32mMultiTool, version: 0.0.1 \x1b[33mTest
     \x1b[32mAuthor, main creator: ItzAxel, Special Thanks for: NikSne
-    \x1b[33mProject on GitHub:\x1b[31m //No Project on GitHub currently
+    \x1b[33mProject on GitHub: https://github.com/itzAxel/MultiToolRS/
     "
     };
     println!("{}", help)
