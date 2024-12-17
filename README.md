@@ -14,6 +14,6 @@ Commands list:
 ### "Under The Hood"
 | Command        | Deploys           |
 | -------------  |:------------------:|
-| -activate      | 1. slmgr /ipk {key}, 2. slmgr /skms {KmsServer}, 3. slmgr /ato    |
-| -dism          | dism /online /cleanup-image /restorehealth         |
-| -sfc           | sfc /scannow        |
+| -activate      | 1. `slmgr /ipk {key}`, 2. `slmgr /skms {KmsServer}`, 3. `slmgr /ato`    |
+| -dism          | `dism /online /cleanup-image /restorehealth`         |
+| -sfc           | `sfc /scannow`        |
